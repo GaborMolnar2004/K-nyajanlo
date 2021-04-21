@@ -1,0 +1,43 @@
+body{
+	background-image:url('../kepek/konyv_hatter.jpg')
+}
+#keret{
+	background-color: #CCAA88;
+    margin: 0px auto 0px auto;
+	padding: 10px;
+    width: 45%;
+   
+}
+.konyv{
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 10px 3px 5px 0px #432;
+    border-style: inset;
+}
+.elvalaszto{
+    o	content:'';
+    o	clear: both;
+    o	display: table;
+    
+}
+.cimsorok{
+	float: left;
+    margin: 5px;
+
+
+}
+.kiemelt{
+	
+}
+p{
+
+}
+img{
+    width: 150px;
+}
+h1{
+    text-align: center;
+}
+   
+h2{
+    text-align: center;
+}
